@@ -31,7 +31,6 @@ public class ImageProcessing {
         static private int counterImages=-1; //Almacena un contador de imágenes
         static private JTextArea txtArea; //Almacena un textArea
         static public enum imageFormat{all,all_images,bmp,gif,jpg,png} //Almacena los principales formatos de imágen
-
                
     /**
      * Método que comprueba si el tamaño del array que se le pasa es 0 o no.
